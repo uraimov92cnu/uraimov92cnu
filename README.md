@@ -1,5 +1,3 @@
-# Overview
-
 Hello,👋  I'm Uraimov Jamoliddin! 👨‍💻 <br/>
 💻 I’m currently working on Computer Vision concepts. <br/>
 🌱 I’m currently learning Deep learning algorithms.<br/>
