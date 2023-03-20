@@ -6,5 +6,5 @@ Hello,👋  I'm Uraimov Jamoliddin! 👨‍💻 <br/>
 📫 How to reach me: Linkedin- https://www.linkedin.com/in/jamoliddin-uraimov-0985b023b/  <br/>
 
 
-![](https://github.com/uraimov92cnu/uraimov92cnu/blob/main/ai_759_gettyimages.jpg)
+![](https://github.com/uraimov92cnu/uraimov92cnu/blob/main/for_github.gif)
 
